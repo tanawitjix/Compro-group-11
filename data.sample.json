@@ -1,0 +1,8 @@
+[
+  {"number": "A01", "zone": "ริมหน้าต่าง", "seats": 2, "minimum": 800, "status": "available", "customer": "", "date": "", "time": "", "guests": 0},
+  {"number": "A02", "zone": "ริมหน้าต่าง", "seats": 2, "minimum": 800, "status": "reserved", "customer": "คุณมิน", "date": "2026-09-25", "time": "18:30", "guests": 2},
+  {"number": "B01", "zone": "ห้องแอร์", "seats": 4, "minimum": 1500, "status": "available", "customer": "", "date": "", "time": "", "guests": 0},
+  {"number": "B02", "zone": "ห้องแอร์", "seats": 4, "minimum": 1500, "status": "available", "customer": "", "date": "", "time": "", "guests": 0},
+  {"number": "C01", "zone": "โต๊ะใหญ่", "seats": 6, "minimum": 2200, "status": "available", "customer": "", "date": "", "time": "", "guests": 0},
+  {"number": "C02", "zone": "โต๊ะใหญ่", "seats": 8, "minimum": 2800, "status": "available", "customer": "", "date": "", "time": "", "guests": 0}
+]
